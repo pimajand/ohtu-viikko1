@@ -1,0 +1,3 @@
+Luo paikalliselle koneellesi ssh-avain (tapahtuu komentoriviltä käsin)
+
+ks. ohje http://www.cs.helsinki.fi/group/kuje/compfac/ssh_avain.html

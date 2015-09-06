@@ -1,0 +1,4 @@
+Lisää avaimen julkinen pari githubiin:
+
+https://github.com/settings/ssh
+Näin pystyt käyttämään GitHubia ilman salasanan syöttämistä koneelta jossa juuri luodun avaimen salainen pari löytyy

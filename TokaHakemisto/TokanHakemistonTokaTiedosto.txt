@@ -1,0 +1,4 @@
+onfiguroi nimesi ja emailosoitteesi paikallisen koneesi git:iin antamalla komennot:
+
+git config --global user.name "Your Name"
+git config --global user.email my.address@gmail.com

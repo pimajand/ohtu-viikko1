@@ -1,0 +1,5 @@
+tee seuraavat:
+
+mene edellisessä tehtävässä luotuun repositorion klooniin (eli komennon git clone luomaan hakemiston)
+lisää ja committaa repositorioon kaksi tiedostoa ja hakemistoa, joiden sisällä on tiedostoja
+muista hyödyllinen komento git status

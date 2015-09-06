@@ -1,0 +1,4 @@
+Hae akateemista tunnusta, näin saat käyttöösi (ilmaiseksi) yksityisiä repositorioita
+
+https://github.com/edu
+HUOM: tämän viikon tehtävissä et vielä tarvitse akateemista tunnusta, ja tämän viikon repositorion tulee olla julkinen!

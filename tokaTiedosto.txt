@@ -5,3 +5,5 @@ Lisää git-ohjeita esim. Pro Git -oppaassa, kannattaa lukea näin alkuun luku 2
 Hyviä ohjeita löydät myös Githubin helpistä
 Varsin lupaavalta Git-tutorialilta näyttää myös https://www.atlassian.com/git/tutorial
 git saattaa vaikuttaa aluksi sekavalta, pienen totuttelun jälkeen peruskäyttö on kuitenkin helppoa ja se nostaa elämäsi laatua merkittävästi
+
+TIEDOSTON MUUTOS

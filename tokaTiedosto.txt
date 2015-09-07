@@ -7,3 +7,5 @@ Varsin lupaavalta Git-tutorialilta näyttää myös https://www.atlassian.com/git/tu
 git saattaa vaikuttaa aluksi sekavalta, pienen totuttelun jälkeen peruskäyttö on kuitenkin helppoa ja se nostaa elämäsi laatua merkittävästi
 
 TIEDOSTON MUUTOS
+
+muutos, jonka jÃ¤lkeen git add -p

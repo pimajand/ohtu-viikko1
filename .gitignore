@@ -1,2 +1,2 @@
-/ohtu-viikko1/target/
-/ohtu-viikko1/*xxx
+target/**/*
+*xxx

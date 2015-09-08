@@ -72,6 +72,14 @@ public class VarastoTest {
         assertEquals(10, varasto.getTilavuus(), vertailuTarkkuus);
     }
     
+     @Test
+    public void ottaminenEnemmanKuinOn() {
+         varasto.lisaaVarastoon(8);
+         double saatuMaara = varasto.otaVarastosta(10);
+        // varastossa on 8, joten sieltä voi ottaa vain 8
+        assertEquals(8, saatuMaara, vertailuTarkkuus);
+    }
+    
 
     @Test
     public void konstr() {

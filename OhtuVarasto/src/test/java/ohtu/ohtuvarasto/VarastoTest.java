@@ -64,6 +64,14 @@ public class VarastoTest {
         // varastossa pitäisi olla tilaa 10 - 8 + 2 eli 4
         assertEquals(4, varasto.paljonkoMahtuu(), vertailuTarkkuus);
     }
+    
+    @Test
+    public void lisaysEnemmanKuinMahtuu() {
+        varasto.lisaaVarastoon(12);
+        // varastoon mahtuu 10, joten liian lisäyksen saldon pitäisi olla 10
+        assertEquals(10, varasto.getTilavuus(), vertailuTarkkuus);
+    }
+    
 
     @Test
     public void konstr() {

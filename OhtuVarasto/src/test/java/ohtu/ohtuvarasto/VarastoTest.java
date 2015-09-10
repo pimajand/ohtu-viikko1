@@ -94,13 +94,6 @@ public class VarastoTest {
         // negatiivisen määrän lisääminen ei muuta saldoa
         assertEquals(0, varasto.getSaldo(), vertailuTarkkuus);
     }
-    
-    @Test
-    public void lisaaVahennaSaldoEiMuutu(){
-        varasto.lisaaVarastoon(6);
-        varasto.otaVarastosta(6);
-        assertEquals(0, varasto.getSaldo(), vertailuTarkkuus);
-    }
 
     @Test
     public void konstr() {

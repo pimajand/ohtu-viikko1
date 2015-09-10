@@ -77,7 +77,7 @@ public class VarastoTest {
         varasto.lisaaVarastoon(8);
         double saatuMaara = varasto.otaVarastosta(10);
         // varastossa on 8, joten sieltä voi ottaa vain 8
-        assertEquals(8, saatuMaara, vertailuTarkkuus);
+        assertEquals(6, saatuMaara, vertailuTarkkuus);
     }
 
     @Test
